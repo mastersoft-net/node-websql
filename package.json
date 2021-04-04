@@ -47,7 +47,8 @@
     "tiny-queue": "^0.2.1"
   },
   "optionalDependencies": {
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.0.2",
+    "spatialite": "^0.1.0",
   },
   "devDependencies": {
     "assert": "1.3.0",
